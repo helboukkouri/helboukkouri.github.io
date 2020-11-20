@@ -12,7 +12,7 @@
       <pubDate>Mon, 09 Nov 2020 20:59:15 +0100</pubDate>
       
       <guid>https://helboukkouri.github.io/posts/character-bert/</guid>
-      <description>CharacterBERT and how is it different from BERT CharacterBERT is a variant of BERT that tries to go back to the simpler days where models produced single embeddings for single words (or rather, tokens). In practice, the only difference is that instead of relying on WordPieces, CharacterBERT uses a CharacterCNN module just like the one that was used in ELMo [1].
+      <description>Difference between BERT and CharacterBERT CharacterBERT is a variant of BERT that tries to go back to the simpler days where models produced single embeddings for single words (or rather, tokens). In practice, the only difference is that instead of relying on WordPieces, CharacterBERT uses a CharacterCNN module just like the one that was used in ELMo [1].
 The next figure show the inner mechanics of the CharacterCNN and compares it to the original WordPiece system in BERT.</description>
     </item>
     
