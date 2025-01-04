@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://helboukkouri.github.io/sitemap.xml
