@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Games on Hicham EL BOUKKOURI</title>
-    <link>http://localhost:1313/games/</link>
+    <link>https://helboukkouri.github.io/games/</link>
     <description>Recent content in Games on Hicham EL BOUKKOURI</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jan 2025 20:59:15 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://helboukkouri.github.io/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Retro Remake - Pong</title>
-      <link>http://localhost:1313/games/pong/</link>
+      <link>https://helboukkouri.github.io/games/pong/</link>
       <pubDate>Sat, 04 Jan 2025 20:59:15 +0100</pubDate>
-      <guid>http://localhost:1313/games/pong/</guid>
+      <guid>https://helboukkouri.github.io/games/pong/</guid>
       <description>&lt;p&gt;A remake of the classic Pong game. Made with Godot.&lt;/p&gt;
 &lt;p&gt;To play the game follow this &lt;a href=&#34;./playable.html&#34;&gt;LINK&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
