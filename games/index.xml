@@ -6,8 +6,16 @@
     <description>Recent content in Games on Hicham EL BOUKKOURI</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jan 2025 20:59:15 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 22:44:15 +0100</lastBuildDate>
     <atom:link href="https://helboukkouri.github.io/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retro Remake - Snake</title>
+      <link>https://helboukkouri.github.io/games/snake/</link>
+      <pubDate>Sun, 05 Jan 2025 22:44:15 +0100</pubDate>
+      <guid>https://helboukkouri.github.io/games/snake/</guid>
+      <description>&lt;p&gt;A remake of the classic Snake game. Made with Godot.&lt;/p&gt;
+&lt;p&gt;To play the game follow this &lt;a href=&#34;./playable.html&#34;&gt;LINK&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Retro Remake - Pong</title>
       <link>https://helboukkouri.github.io/games/pong/</link>
